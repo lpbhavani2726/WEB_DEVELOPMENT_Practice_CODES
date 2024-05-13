@@ -1,0 +1,32 @@
+.todolist {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.day {
+    text-align: center;
+}
+
+.book {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+}
+
+.button {
+    background-color: orange;
+    height: 40px;
+    width: 80px;
+    color: white;
+    font-weight: bold;
+}
+
+.skip {
+    text-decoration: underline;
+}
