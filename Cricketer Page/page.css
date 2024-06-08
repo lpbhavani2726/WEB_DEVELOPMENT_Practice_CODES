@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-section {
+    background-color: #fb4e71;
+    padding: 10px;
+}
+
+.top-section-heading {
+    font-family: roboto;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.top-section-paragraph {
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+
+}
+
+.bottom-section-heading {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.bottom-section-card {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 10px;
+}
+
+.bottom-section-paragraph {
+    font-family: Roboto;
+}
+
+.bottom-section-paragraph1 {
+    font-family: Roboto;
+    color: #888888;
+}
+
+.video {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button {
+
+    color: #ffffff;
+}
